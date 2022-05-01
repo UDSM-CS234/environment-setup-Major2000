@@ -1,4 +1,4 @@
-# environment-setup-Major2000 created by GitHub Classroom
+# PARTICIPANT
 
 NAME: NYANDORO, EDGAR CHEBE.
 
